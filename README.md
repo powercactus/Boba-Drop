@@ -1,2 +1,2 @@
 # Boba-Drop
-task failed successfully.
+It's a polished website, with zero bloat whatsoever.
