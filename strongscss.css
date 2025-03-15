@@ -1,0 +1,24 @@
+body {
+    background-color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px;
+    text-emphasis-color: black;
+}
+img {
+    border-radius: 10px;
+    margin-top: auto;
+    size: auto;
+}
+.yes {
+    background-color: black;
+    border-radius: 10px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
