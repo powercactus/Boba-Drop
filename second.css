@@ -1,0 +1,30 @@
+body {background-color: antiquewhite;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.headingclass {font: 100;
+border-color: aqua;
+font-style: italic;
+margin-top: auto;
+margin-left: 10px;}
+div {
+    width: auto;
+    margin: 5px;
+    outline-width: 20px;
+    outline-style: solid;
+    text-align: center;
+  }
+  img {border-radius: 10px;
+size: auto;
+width: auto;
+height: 400px;}
+.yes 
+{font-weight: 50;
+    margin-left: auto;
+    background-color: rgb(44, 158, 44);
+    padding: 10px;
+    
+}
+.DOESITWORK {
+    background-color: rgb(44, 158, 44);
+    border-radius: 10px;
+    padding: 10px;
+}
